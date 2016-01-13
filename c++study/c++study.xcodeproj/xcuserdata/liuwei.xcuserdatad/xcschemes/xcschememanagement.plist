@@ -4,10 +4,35 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Queue.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+		<key>StringBad.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
 		<key>c++study.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>cingolf.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>firstref.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>fltadd.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
 		</dict>
 		<key>instr1.xcscheme</key>
 		<dict>
@@ -24,6 +49,16 @@
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
+		<key>outfile.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>stock00.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
 		<key>strings.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -34,6 +69,26 @@
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
+		<key>sumafile.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>test.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>textin1.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>time.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
 		<key>waiting.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -42,6 +97,41 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>011543E31C1B2A81001D9B3B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>011543EE1C1B2AA0001D9B3B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>011543F91C1C652A001D9B3B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0115440A1C1D6D45001D9B3B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0157AF5D1C302EF900C3BD07</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>01AEB9921C034E040055ED29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>01AEB99D1C035BCE0055ED29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>01BE0DA61BF77D2C008AB25C</key>
 		<dict>
 			<key>primary</key>
@@ -73,6 +163,36 @@
 			<true/>
 		</dict>
 		<key>01BE0DEE1BF8B8D5008AB25C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>01BE0DF91BF8C8A1008AB25C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>01BE0E041BF8D6FF008AB25C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>01BFDDD61C00967D0028152E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>01BFDDE11C0096B90028152E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>01BFDDEC1C009FCC0028152E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>01DA78E71C40F4B5001C8472</key>
 		<dict>
 			<key>primary</key>
 			<true/>
